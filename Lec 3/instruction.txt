@@ -1,0 +1,24 @@
+>>> x=[1,2,3]
+>>> q,p,i=[1,2,3]
+>>> p
+2
+>>> q
+1
+>>> i
+3
+>>> import math as m
+>>> m.sqrt(1)
+1.0
+>>> from math import *
+>>> sqrt(100)
+10.0
+
+
+
+
+>>> from math import sqrt, pi
+>>> sqrt(100)
+10.0
+>>> pi
+3.141592653589793
+>>> 
