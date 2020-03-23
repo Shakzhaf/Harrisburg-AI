@@ -1,0 +1,59 @@
+pip install scipy 
+pip install nunmpy
+
+pip install scikit-learn 
+pip install pandas
+
+pip install pandas-datareader
+
+pip install matplotlib
+
+pip install pillow  
+pip install tqdm
+
+pip install h5py 
+pip install tensorflow
+
+pip install keras 
+pip install openPyxl
+
+pip install pymongo 
+pip installpyyaml 
+
+pip install psutil 
+pip install pyarrow
+
+pip install seaborn 
+pip install ipython 
+
+pip install pyspark 
+pip install jupyter
+
+pip install requests 
+pip install tabulate
+
+pip install colorama 
+pip install future
+
+pip install tables
+pip install deap
+
+pip install django-dag 
+pip install bitstring
+
+pip install gym 
+pip install JSAnimation
+
+pip install loader
+pip install sparkdl
+
+pip install pprint 
+pip install mysql-connector-python 
+
+pip install tensorframes 
+pip install kafka
+
+pip install tensorflowonspark 
+pip install jieba
+
+pip install h2o
